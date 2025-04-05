@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Frontend
 
-![React](https://img.shields.io/badge/Nextjs-%2323272F.svg?style=for-the-badge&logo=React&logoColor=white)
+![NextJS](https://img.shields.io/badge/Nextjs-%2323272F.svg?style=for-the-badge&logo=React&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2323272F.svg?style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23306792.svg?style=for-the-badge&logo=POSTGRESQL&logoColor=black)
+![Prisma](https://img.shields.io/badge/PostgreSQL-%23306792.svg?style=for-the-badge&logo=POSTGRESQL&logoColor=black)
 
 #
 

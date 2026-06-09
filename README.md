@@ -44,6 +44,8 @@
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-0A1220?style=for-the-badge&logo=wifi&logoColor=9CCFFF)
 ![Docker](https://img.shields.io/badge/Docker-0A1220?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Remnawave](https://img.shields.io/badge/Remnawave-0A1220?style=for-the-badge&logoColor=9CCFFF)
+![Caddy](https://img.shields.io/badge/Caddy-0A1220?style=for-the-badge&logo=caddy&logoColor=1F88C0)
+![Nginx](https://img.shields.io/badge/Nginx-0A1220?style=for-the-badge&logo=nginx&logoColor=009639)
 
 ---
 

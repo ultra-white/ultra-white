@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👁 ultra-white 👁
-
 > *"A wizard is never late, nor is he early. He commits precisely when he means to."*
 
 <div align="center">
@@ -15,7 +13,6 @@
 
 ---
 
-## ⚔ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-0A1220?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0A1220?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-0A1220?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -50,8 +47,6 @@
 ---
 
 <div align="center">
-
-### ❄ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"

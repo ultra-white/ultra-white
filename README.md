@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0A1220?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-### ☁ Infrastructure & Deployment
+### 🛠 Tools & Ecosystem
 
 ![Git](https://img.shields.io/badge/Git-0A1220?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0A1220?style=for-the-badge&logo=github&logoColor=CBE7FF)
@@ -43,17 +43,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-0A1220?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0A1220?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Postman](https://img.shields.io/badge/Postman-0A1220?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-### 🖥 Environment & Productivity
-
 ![Linux](https://img.shields.io/badge/Linux-0A1220?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0A1220?style=for-the-badge&logo=windows-terminal&logoColor=4D9DE0)
 ![Figma](https://img.shields.io/badge/Figma-0A1220?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Notion](https://img.shields.io/badge/Notion-0A1220?style=for-the-badge&logo=notion&logoColor=FFFFFF)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0A1220?style=for-the-badge&logo=obsidian&logoColor=7C3AED)
-
-### 📡 Hardware & Radio
-
 ![Arduino](https://img.shields.io/badge/Arduino-0A1220?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-0A1220?style=for-the-badge&logo=wifi&logoColor=9CCFFF)
 

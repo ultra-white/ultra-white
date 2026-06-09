@@ -1,6 +1,10 @@
 <div align="center">
 
-# 𓂀 ultra-white 𓂀
+<h1 align="center">
+  <span style="display:inline-block; transform:scaleX(-1);">𓂀</span>
+  ultra-white
+  𓂀
+</h1>
 
 > *"A wizard is never late, nor is he early. He commits precisely when he means to."*
 

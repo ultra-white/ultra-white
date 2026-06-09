@@ -1,14 +1,20 @@
 <div align="center">
 
-# 𓂀 ultra-white
+# 𓂀 ultra-white 𓂀
 
 > *"A wizard is never late, nor is he early. He commits precisely when he means to."*
 
 <img src="https://github-readme-stats.vercel.app/api?username=ultra-white&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=9CCFFF&text_color=D6E8FF&icon_color=9CCFFF" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-white&theme=transparent&hide_border=true&background=00000000&ring=9CCFFF&fire=9CCFFF&currStreakLabel=D6E8FF&sideNums=D6E8FF&currStreakNum=9CCFFF&sideLabels=D6E8FF&dates=7FAFD4" height="180"/>
+<img
+  src="https://streak-stats.demolab.com?user=ultra-white&theme=transparent&hide_border=true&background=00000000&ring=9CCFFF&fire=9CCFFF&currStreakLabel=D6E8FF&sideNums=D6E8FF&currStreakNum=9CCFFF&sideLabels=D6E8FF&dates=7FAFD4"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-white&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=9CCFFF&text_color=D6E8FF" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-white&layout=compact"
+  height="180"
+/>
 
 </div>
 

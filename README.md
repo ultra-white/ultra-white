@@ -7,12 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ultra-white&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=9CCFFF&text_color=D6E8FF&icon_color=9CCFFF" height="180"/>
 
 <img
-  src="https://streak-stats.demolab.com?user=ultra-white&theme=transparent&hide_border=true&background=00000000&ring=9CCFFF&fire=9CCFFF&currStreakLabel=D6E8FF&sideNums=D6E8FF&currStreakNum=9CCFFF&sideLabels=D6E8FF&dates=7FAFD4"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-white&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=ultra-white&show_icons=true"
   height="180"
 />
 

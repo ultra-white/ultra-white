@@ -4,7 +4,12 @@
 
 > *"A wizard is never late, nor is he early. He commits precisely when he means to."*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-white&theme=transparent&hide_border=true&background=00000000&ring=9CCFFF&fire=9CCFFF&currStreakLabel=D6E8FF&sideNums=D6E8FF&currStreakNum=9CCFFF&sideLabels=D6E8FF&dates=7FAFD4" height="180"/>
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=ultra-white&theme=transparent&hide_border=true&background=00000000&ring=9CCFFF&fire=9CCFFF&currStreakLabel=D6E8FF&sideNums=D6E8FF&currStreakNum=9CCFFF&sideLabels=D6E8FF&dates=7FAFD4"
+  height="180"
+/>
 
 </div>
 

@@ -42,6 +42,8 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-0A1220?style=for-the-badge&logo=obsidian&logoColor=7C3AED)
 ![Arduino](https://img.shields.io/badge/Arduino-0A1220?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-0A1220?style=for-the-badge&logo=wifi&logoColor=9CCFFF)
+![Docker](https://img.shields.io/badge/Docker-0A1220?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Remnawave](https://img.shields.io/badge/Remnawave-0A1220?style=for-the-badge&logoColor=9CCFFF)
 
 ---
 

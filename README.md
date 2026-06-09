@@ -16,9 +16,6 @@
 ---
 
 ## ⚔ Tech Stack
-
-### 🎨 Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-0A1220?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0A1220?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-0A1220?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -26,18 +23,12 @@
 ![React](https://img.shields.io/badge/React-0A1220?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0A1220?style=for-the-badge&logo=next.js&logoColor=CBE7FF)
 ![i18next](https://img.shields.io/badge/i18n-0A1220?style=for-the-badge&logo=i18next&logoColor=9CCFFF)
-
-### ⚙ Backend & Databases
-
 ![Node.js](https://img.shields.io/badge/Node.js-0A1220?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-0A1220?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Prisma](https://img.shields.io/badge/Prisma-0A1220?style=for-the-badge&logo=prisma&logoColor=D6E8FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1220?style=for-the-badge&logo=postgresql&logoColor=9CCFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-0A1220?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-### 🛠 Tools & Ecosystem
-
 ![Git](https://img.shields.io/badge/Git-0A1220?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0A1220?style=for-the-badge&logo=github&logoColor=CBE7FF)
 ![npm](https://img.shields.io/badge/npm-0A1220?style=for-the-badge&logo=npm&logoColor=CB3837)

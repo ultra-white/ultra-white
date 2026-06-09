@@ -32,6 +32,26 @@ Here are some ideas to get you started:
 
 #
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ultra-white&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=7FFFD4&icon_color=A78BFA" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-white&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=7FFFD4" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-white&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=7FFFD4" height="180"/>
+
+</div>
+
+#
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake.svg" />
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake.svg" />

@@ -32,12 +32,8 @@ Here are some ideas to get you started:
 
 #
 
-<p align="center" style="margin-top: 5vh;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultra-white&langs_count=5&exclude_repo=st,encoder,dev&theme=dark&layout=donut" alt="Stats">
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ultra-white/ultra-white/output/github-snake.svg" />
 </picture>
